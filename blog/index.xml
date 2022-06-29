@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blogs on Consortium</title>
-    <link>https://regnidorhcs.github.io/blog/</link>
-    <description>Recent content in Blogs on Consortium</description>
+    <title>Blogs on XLZD Consortium</title>
+    <link>https://xlzd.org/blog/</link>
+    <description>Recent content in Blogs on XLZD Consortium</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2022 Designed by [Nicolas Angelides](https://www.regnidorhcs.com.com) using [themefisher](https://themefisher.com)</copyright>
-    <lastBuildDate>Thu, 23 Jun 2022 14:51:12 +0600</lastBuildDate><atom:link href="https://regnidorhcs.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 23 Jun 2022 14:51:12 +0600</lastBuildDate><atom:link href="https://xlzd.org/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DARWIN, XENON, LUX-ZEPLIN Summer Meeting 2022</title>
-      <link>https://regnidorhcs.github.io/blog/first_meeting/</link>
+      <link>https://xlzd.org/blog/first_meeting/</link>
       <pubDate>Thu, 23 Jun 2022 14:51:12 +0600</pubDate>
       
-      <guid>https://regnidorhcs.github.io/blog/first_meeting/</guid>
+      <guid>https://xlzd.org/blog/first_meeting/</guid>
       <description>The first joint meeting after signature of the MoU will take place 27-29 June 2022 at KIT (Campus North).</description>
     </item>
     
     <item>
       <title>Signing Memorandum of Understanding</title>
-      <link>https://regnidorhcs.github.io/blog/memorandum/</link>
+      <link>https://xlzd.org/blog/memorandum/</link>
       <pubDate>Wed, 15 Sep 2021 12:00:00 +0600</pubDate>
       
-      <guid>https://regnidorhcs.github.io/blog/memorandum/</guid>
+      <guid>https://xlzd.org/blog/memorandum/</guid>
       <description>&amp;ldquo;XENON, DARWIN and LZ representatives signed a Memorandum of Understanding in July 2021 in which they commit to work together at the next detector, but leave the location open.</description>
     </item>
     
