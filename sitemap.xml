@@ -2,30 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/blog/</loc>
+    <loc>https://xlzd.org/blog/</loc>
     <lastmod>2024-04-15T14:51:12+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/meeting_ral_2024/</loc>
+    <loc>https://xlzd.org/blog/meeting_ral_2024/</loc>
     <lastmod>2024-04-15T14:51:12+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://xlzd.org/</loc>
     <lastmod>2024-04-15T14:51:12+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/meeting_ucla_2023/</loc>
+    <loc>https://xlzd.org/blog/meeting_ucla_2023/</loc>
     <lastmod>2023-03-15T14:51:12+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/meeting_kit_2022/</loc>
+    <loc>https://xlzd.org/blog/meeting_kit_2022/</loc>
     <lastmod>2022-06-23T14:51:12+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/memorandum/</loc>
+    <loc>https://xlzd.org/blog/memorandum/</loc>
     <lastmod>2021-09-15T12:00:00+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/author/</loc>
+    <loc>https://xlzd.org/author/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://xlzd.org/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/author/nicolas-angelides/</loc>
+    <loc>https://xlzd.org/author/nicolas-angelides/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://xlzd.org/tags/</loc>
   </url>
 </urlset>
