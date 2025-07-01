@@ -2,46 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>XLZD Collaboration</title>
-    <link>https://xlzd.org/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on XLZD Collaboration</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Creative Commons; 2022 Designed by [Nicolas Angelides](https://www.regnidorhcs.com) using [themefisher](https://themefisher.com)</copyright>
     <lastBuildDate>Mon, 15 Apr 2024 14:51:12 +0600</lastBuildDate>
-    <atom:link href="https://xlzd.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DARWIN, XENON, LUX-ZEPLIN Spring Meeting 2024</title>
-      <link>https://xlzd.org/blog/meeting_ral_2024/</link>
+      <link>http://localhost:1313/blog/meeting_ral_2024/</link>
       <pubDate>Mon, 15 Apr 2024 14:51:12 +0600</pubDate>
-      <guid>https://xlzd.org/blog/meeting_ral_2024/</guid>
+      <guid>http://localhost:1313/blog/meeting_ral_2024/</guid>
       <description>&lt;p&gt;The third joint meeting for the XLZD consortium (now XLZD Collaboration) took place 15-19th of April 2024 at the Rutherford Appleton Laboratory, at Harwell in the UK. The detector design book and funding strategies were discussed in a wide forum. Excitement over the imminent formation of the future collaboration which will deliver this deffinitive instrument was also widespread.  Find the agenda &lt;a href=&#34;https://indico.cern.ch/event/1294775/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>DARWIN, XENON, LUX-ZEPLIN Spring Meeting 2023</title>
-      <link>https://xlzd.org/blog/meeting_ucla_2023/</link>
+      <link>http://localhost:1313/blog/meeting_ucla_2023/</link>
       <pubDate>Wed, 15 Mar 2023 14:51:12 +0600</pubDate>
-      <guid>https://xlzd.org/blog/meeting_ucla_2023/</guid>
+      <guid>http://localhost:1313/blog/meeting_ucla_2023/</guid>
       <description>&lt;p&gt;The second joint meeting after signature of the &lt;a href=&#34;https://indico.cern.ch/event/1028794/attachments/2282779/3878886/210722%20MOU%20Signatories%20%28Live%20updates%29%20-%20DMNG%20Dark%20Matter%20Next%20Generation%20Detector.pdf&#34;&gt;Memorandum of Understanding&lt;/a&gt; has taken place in April 2023 at UCLA. Find the agenda &lt;a href=&#34;https://indico.cern.ch/event/1263946/timetable/#all&#34;&gt;here&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>DARWIN, XENON, LUX-ZEPLIN Summer Meeting 2022</title>
-      <link>https://xlzd.org/blog/meeting_kit_2022/</link>
+      <link>http://localhost:1313/blog/meeting_kit_2022/</link>
       <pubDate>Thu, 23 Jun 2022 14:51:12 +0600</pubDate>
-      <guid>https://xlzd.org/blog/meeting_kit_2022/</guid>
+      <guid>http://localhost:1313/blog/meeting_kit_2022/</guid>
       <description>&lt;p&gt;The first joint meeting after signature of the MoU has taken place 27-29 June 2022 at KIT (Campus North). Seven topical working groups have been established which will report their initial findings at the meeting as a basis for further discussion: Science, Key messages and figures, Xenon procurement and budget, Timeline, major design questions and scaling, Siting, Branding and communications, and Grassroots group.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Signing Memorandum of Understanding</title>
-      <link>https://xlzd.org/blog/memorandum/</link>
+      <link>http://localhost:1313/blog/memorandum/</link>
       <pubDate>Wed, 15 Sep 2021 12:00:00 +0600</pubDate>
-      <guid>https://xlzd.org/blog/memorandum/</guid>
+      <guid>http://localhost:1313/blog/memorandum/</guid>
       <description>&lt;p&gt;&amp;ldquo;XENON, DARWIN and LZ representatives signed a Memorandum of Understanding in July 2021 in which they commit to work together at the next detector, but leave the location open.&amp;rdquo;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Nicolas Angelides</title>
-      <link>https://xlzd.org/author/nicolas-angelides/</link>
+      <link>http://localhost:1313/author/nicolas-angelides/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://xlzd.org/author/nicolas-angelides/</guid>
+      <guid>http://localhost:1313/author/nicolas-angelides/</guid>
       <description>&lt;p&gt;Nicolas has been a member of LZ since 2013 and continues his research in Dark Matter direct detection to this day. His creativity and diverse skillset make him an excellent physicist and an even better website designer.&lt;/p&gt;</description>
     </item>
   </channel>
